@@ -1,6 +1,6 @@
 👋 Hello, **I'm Jon Bennett**
 
-🎓 Working Towards a Bachelor's Degree in Science and Engineering for Cybersecurity with a minor in Mathematics
+🎓 Have a Bachelor's Degree in Science and Engineering for Cybersecurity with a minor in Mathematics
 
 🔐 Aspiring Cybersecurity Professional
 
