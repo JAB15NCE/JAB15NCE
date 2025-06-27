@@ -6,7 +6,7 @@
 
 🛡️ Passionate about encryption, network security, and building secure systems
 
-💻 Currently developing a Rust-based OS and a Python-based Secure Chat Program
+💻 Currently developing a Rust-based OS and a Python-based Secure Chat Program (Private)
 
 🛠️**Tech Stack:**
 
